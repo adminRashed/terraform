@@ -1,0 +1,9 @@
+terraform --version
+brew tap hashicorp/tap
+brew install hashicorp/tap/terraform
+vim rashed.tf
+cat rashed.tf 
+terraform iit
+terraform validate
+terraform plan
+tarraform apply
