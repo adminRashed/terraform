@@ -11,4 +11,4 @@ resource local_file my_file {
 terraform iit
 terraform validate
 terraform plan
-tarraform apply
+tarraform apply 
